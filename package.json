@@ -1,0 +1,24 @@
+{
+  "name": "courseera",
+  "version": "1.0.0",
+  "description": "course era course",
+  "main": "index.html",
+  "scripts": {
+    "start": "npm run lite",
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "lite":"lite-server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/abhilakshyadobhal/Course-Era.git"
+  },
+  "author": "abhilakshya",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/abhilakshyadobhal/Course-Era/issues"
+  },
+  "homepage": "https://github.com/abhilakshyadobhal/Course-Era#readme",
+  "devDependencies": {
+    "lite-server": "^2.4.0"
+  }
+}

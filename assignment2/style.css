@@ -1,0 +1,19 @@
+
+#heading-section {
+    background-color: #343a40d9;
+    color: white;
+}
+
+#task3{
+    font-size: 18px;
+}
+
+.reservationForm{
+    width: 500px;
+}
+
+#footer-section {
+    background-color: #343a40;
+    color: white;
+    /* color:white; */
+}
